@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnProject MaterialHeight="0">
+    <CutSetting type="Scan">
+        <index Value="0"/>
+        <minPower Value="3"/>
+        <maxPower Value="3"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="0"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="3"/>
+        <zPerPass Value="1.5"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="1"/>
+        <minPower Value="20"/>
+        <maxPower Value="6"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="1"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="2"/>
+        <minPower Value="9"/>
+        <maxPower Value="9"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="2"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="1.5"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="3"/>
+        <minPower Value="12"/>
+        <maxPower Value="12"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="3"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="4"/>
+        <minPower Value="15"/>
+        <maxPower Value="15"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="4"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="5"/>
+        <minPower Value="18"/>
+        <maxPower Value="18"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="5"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="6"/>
+        <minPower Value="21"/>
+        <maxPower Value="21"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="6"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="7"/>
+        <minPower Value="24"/>
+        <maxPower Value="24"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="7"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="8"/>
+        <minPower Value="27"/>
+        <maxPower Value="27"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="8"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="9"/>
+        <minPower Value="30"/>
+        <maxPower Value="30"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="9"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="10"/>
+        <minPower Value="33"/>
+        <maxPower Value="33"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="10"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="11"/>
+        <minPower Value="36"/>
+        <maxPower Value="36"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="11"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="12"/>
+        <minPower Value="39"/>
+        <maxPower Value="39"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="12"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="13"/>
+        <minPower Value="42"/>
+        <maxPower Value="42"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="13"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="14"/>
+        <minPower Value="45"/>
+        <maxPower Value="45"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="14"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="15"/>
+        <minPower Value="48"/>
+        <maxPower Value="48"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="15"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="16"/>
+        <minPower Value="51"/>
+        <maxPower Value="51"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="16"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="17"/>
+        <minPower Value="54"/>
+        <maxPower Value="54"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="17"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="18"/>
+        <minPower Value="57"/>
+        <maxPower Value="57"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="18"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="19"/>
+        <minPower Value="60"/>
+        <maxPower Value="60"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="19"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="20"/>
+        <minPower Value="63"/>
+        <maxPower Value="63"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="20"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="21"/>
+        <minPower Value="66"/>
+        <maxPower Value="66"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="21"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="22"/>
+        <minPower Value="69"/>
+        <maxPower Value="69"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="22"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="23"/>
+        <minPower Value="72"/>
+        <maxPower Value="72"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="23"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="24"/>
+        <minPower Value="75"/>
+        <maxPower Value="75"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="24"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="25"/>
+        <minPower Value="78"/>
+        <maxPower Value="78"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="25"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="26"/>
+        <minPower Value="81"/>
+        <maxPower Value="81"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="26"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="27"/>
+        <minPower Value="84"/>
+        <maxPower Value="84"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="27"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="28"/>
+        <minPower Value="87"/>
+        <maxPower Value="87"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="28"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <CutSetting type="Scan">
+        <index Value="29"/>
+        <minPower Value="90"/>
+        <maxPower Value="90"/>
+        <speed Value="350"/>
+        <kerf Value="0"/>
+        <zOffset Value="0"/>
+        <startDelay Value="0"/>
+        <endDelay Value="0"/>
+        <throughPower Value="0"/>
+        <enableCutThrough Value="0"/>
+        <priority Value="29"/>
+        <frequency Value="20000"/>
+        <doOutput Value="1"/>
+        <hide Value="0"/>
+        <runBlower Value="1"/>
+        <numPasses Value="1"/>
+        <zPerPass Value="0"/>
+        <perforate Value="0"/>
+        <perfLen Value="0.1"/>
+        <perfSkip Value="0.1"/>
+        <scanOpt Value="mergeAll"/>
+        <bidir Value="1"/>
+        <crossHatch Value="0"/>
+        <overscan Value="0"/>
+        <overscanPercent Value="2.5"/>
+        <floodFill Value="0"/>
+        <interval Value="0.1"/>
+        <angle Value="0"/>
+    </CutSetting>
+    <Shape Type="Rect" CutIndex="20" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 510 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="21" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 500 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="22" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 490 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="23" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 480 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="24" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 470 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="25" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 460 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="26" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 450 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="27" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 440 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="28" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 430 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="29" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 420 69.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="10" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 510 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="11" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 500 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="12" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 490 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="13" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 480 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="14" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 470 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="15" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 460 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="16" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 450 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="17" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 440 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="18" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 430 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="19" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 420 59.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="0" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 510 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="1" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 500 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="2" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 490 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="3" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 480 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="4" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 470 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="5" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 460 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="6" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 450 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="7" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 440 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="8" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 430 49.0006</XForm>
+    </Shape>
+    <Shape Type="Rect" CutIndex="9" W="24" H="29" Cr="0">
+        <XForm>0.416667 0 0 0.344828 420 49.0006</XForm>
+    </Shape>
+</LightBurnProject>
