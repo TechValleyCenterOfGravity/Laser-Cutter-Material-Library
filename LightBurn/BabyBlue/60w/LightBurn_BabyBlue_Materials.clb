@@ -65,6 +65,38 @@
                 <angle Value="0"/>
             </CutSetting>
         </Entry>
+        <Entry Thickness="4.7600" Desc="3/16 inch cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="80"/>
+                <maxPower Value="80"/>
+                <speed Value="10"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <perforate Value="0"/>
+                <perfLen Value="0.1"/>
+                <perfSkip Value="0.1"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
     </Material>
     <Material name="Anodized Aluminum">
         <Entry Thickness="-1.0000" Desc="Engrave">
